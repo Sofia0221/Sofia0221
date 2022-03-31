@@ -1,3 +1,4 @@
+![DBschema](/img/myLogo.png)
 ### Hi there 👋
 
 - 🔭 I’m currently working on ...
